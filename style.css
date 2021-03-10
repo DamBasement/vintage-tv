@@ -188,7 +188,7 @@ button {
 
   .header {
       background-color: #75fa69;
-      padding: 10px;
+      padding: 5px;
       height: auto;
       width: 2%;
       margin: 0;
@@ -201,12 +201,12 @@ button {
       flex: 1;
       height: 100%;
       margin: 0;
-      padding: 5px;
+      /*padding: 5px;*/
   }
 
   .footer {
       background-color: #ea36af;
-      padding: 10px;
+      padding: 5px;
       height: auto;
       width: 2%;
       margin: 0;
