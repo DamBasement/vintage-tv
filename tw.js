@@ -1,9 +1,11 @@
 var app = document.getElementById('app');
 
-function playAudio(url) {
-  var a = new Audio(url);
-  a.loop = true
-  a.play()
+var x = document.getElementById("myAudio");
+
+function playAudio() {
+  //var a = new Audio(url);
+  x.loop = true
+  x.play()
 }
 
 $("button").click(function(){
