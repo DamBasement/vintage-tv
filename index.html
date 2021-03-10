@@ -16,6 +16,12 @@
 </head>
 
 <body>
+    
+    <audio id="myAudio">
+        <source src="OST.mpeg" type="audio/mpeg">
+        <source src="OST.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
 
     <div class="wrapper">
 
@@ -29,7 +35,7 @@
           <p>[+] HINT: turn the volume down a bit if you have your headphones on.</p>
           <p>[+] Doom!</p>
 
-          <button onclick="style.display = 'none'; playAudio('base1.1.wav')">Start</button>
+          <button onclick="style.display = 'none'; playAudio()" type="button">Start</button>
 
           <div id="app"></div>
           <!-- End content -->
