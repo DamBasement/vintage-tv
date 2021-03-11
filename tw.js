@@ -13,7 +13,7 @@ $("button").click(function(){
   $("p").hide();
   var typewriter = new Typewriter(app, {
     loop: false,
-    cursor: "-->"
+    cursor: "_"
   });
 
   typewriter.pauseFor(1500)
