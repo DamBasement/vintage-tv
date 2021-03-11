@@ -13,7 +13,7 @@ $("button").click(function(){
   $("p").hide();
   var typewriter = new Typewriter(app, {
     loop: false,
-    cursor: "_"
+    cursor: "-->"
   });
 
   typewriter.pauseFor(1500)
@@ -28,7 +28,7 @@ $("button").click(function(){
       .pauseFor(1500)
       .typeString('<br><p> Mention me on <a href="https://twitter.com/c0rm4n01" class="twitter-mention-button" data-show-count="false"><span>Twitter</span></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> if you want to get in touch.</p>')
       .pauseFor(1500)
-      .typeString('<br><p> Thanks for visiting my page.</p>')
+      .typeString('<br><p> Thanks for stopping by.</p>')
       .pauseFor(1500)
   typewriter.typeString('<br><p> Bye.</p> <br><img src="http://www.hackthebox.eu/badge/image/484328" alt="Hack The Box">\n')
       .start();
