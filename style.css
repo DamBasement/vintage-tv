@@ -58,7 +58,7 @@ body {
 
 h1 {
   font-size: 6em !important;
-  text-shadow: 0.06rem 0 0.06rem #ea36af, -0.125rem 0 0.06rem #75fa69;
+  text-shadow: 0.06rem 0 0.06rem #ea36af, -0.125rem 0 0.06rem #55E6C1;
   letter-spacing: 0.125em;
   animation-duration: 0.01s;
   animation-name: textflicker;
