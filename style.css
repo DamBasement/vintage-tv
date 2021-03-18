@@ -221,7 +221,7 @@ button {
   p {
     font-size: 10px;
     line-height: 1.8;
-    margin-left: 12px;
+    margin: 12px 12px 0 12px;
   }
 
   button {
