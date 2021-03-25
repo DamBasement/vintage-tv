@@ -76,6 +76,11 @@ img {
     border-radius: 20%;
 }
 
+.fa {
+    text-align: right;
+}
+
+
 a {
     text-decoration: none;
 }
