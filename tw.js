@@ -24,7 +24,7 @@ $("button").click(function(){
       .pauseFor(1500)
       .typeString('<br><p>\'80s summer child. InfoSec dude since 2015.</p>')
       .pauseFor(1500)
-      .typeString('<br><p> 24/7 hacker student. Stratocaster lover.</p>')
+      .typeString('<br><p> 24/7 hacker student. Fender &#x2764;.</p>')
       .pauseFor(1500)
       .typeString('<br><p> Mention me on <a href="https://twitter.com/c0rm4n01" class="twitter-mention-button" data-show-count="false"><span>Twitter</span></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> if you want to get in touch.</p>')
       .pauseFor(1500)

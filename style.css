@@ -46,6 +46,7 @@ body {
     flex: 1;
     height: 100%;
     margin: 0;
+    position: relative;
 }
 
 .footer {
@@ -77,9 +78,12 @@ img {
 }
 
 .fa {
-   
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #f1edee;
+    margin: 15px;
 }
-
 
 a {
     text-decoration: none;
