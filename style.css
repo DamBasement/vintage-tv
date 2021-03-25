@@ -77,7 +77,7 @@ img {
 }
 
 .fa {
-    text-align: right;
+    float:right;
 }
 
 
