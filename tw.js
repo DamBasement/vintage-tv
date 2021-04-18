@@ -30,6 +30,6 @@ $("button").click(function(){
       .pauseFor(1500)
       .typeString('<br><p> Thanks for stopping by.</p>')
       .pauseFor(1500)
-  typewriter.typeString('<br><p> Bye.</p> <br><script src="https://tryhackme.com/badge/51477"></script>\n')
+  typewriter.typeString('<br><p> Bye.</p> <br>')
       .start();
 });
