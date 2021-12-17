@@ -94,6 +94,11 @@ img {
     margin: 15px;
 }
 
+.fa-hover {
+	
+    background-color: #55E6C1;
+}
+
 a {
     text-decoration: none;
 }
