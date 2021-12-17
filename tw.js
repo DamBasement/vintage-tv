@@ -20,7 +20,7 @@ $("button").click(function(){
       .typeString('<p>[+] Heyo.</p>')
       .pauseFor(500)
       .deleteChars(9)
-      .typeString('<p>I\'m sentinel.</p>')
+      .typeString('<p>I\'m YASCIN.</p>')
       .pauseFor(1500)
       .typeString('<br><p>\'80s summer child. InfoSec dude since 2015.</p>')
       .pauseFor(1500)
@@ -30,6 +30,6 @@ $("button").click(function(){
       .pauseFor(1500)
       .typeString('<br><p> Thanks for stopping by.</p>')
       .pauseFor(1500)
-  typewriter.typeString('<br><p> Bye.</p> <br>')
+  typewriter.typeString('<br><p>до свидания.</p> <br>')
       .start();
 });
