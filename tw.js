@@ -30,6 +30,6 @@ $("button").click(function(){
       .pauseFor(1500)
       .typeString('<br><p> Thanks for stopping by.</p>')
       .pauseFor(1500)
-  typewriter.typeString('<br><p>Over & Out.</p> <br>')
+  typewriter.typeString('<br><p>Over &amp; Out.</p> <br>')
       .start();
 });
