@@ -3,7 +3,6 @@ var app = document.getElementById('app');
 var x = document.getElementById("myAudio");
 
 function playAudio() {
-  //var a = new Audio(url);
   x.loop = true
   x.play()
 }
@@ -17,7 +16,7 @@ $("button").click(function(){
   });
 
   typewriter.pauseFor(1500)
-      .typeString('<p>[+] Heyo.</p>')
+      .typeString('<p> Hey.</p>')
       .pauseFor(500)
       .deleteChars(9)
       .typeString('<p>I\'m r3d_f0x.</p>')
