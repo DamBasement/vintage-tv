@@ -23,12 +23,12 @@ $("button").click(function(){
       .pauseFor(1500)
       .typeString('<br><p>\'80s summer child. InfoSec dude since 2015. </p>')
       .pauseFor(1500)
-      .typeString('<br><p> Brutalist, <a href="https://www.behance.net/r3df0x">Nikonist</a> and Fender ❤️ </p>')
+      .typeString('<br><p> Brutalist, <a href="https://www.behance.net/r3df0x">Nikonist</a> and Fenderist</p>')
       .pauseFor(1500)
-      .typeString('<br><p> Write me an email at MG4zcHIwdDBuQHByb3Rvbm1haWwuY29t 😈 if you want to get in touch!</p>')
+      .typeString('<br><p> Write me an email at MG4zcHIwdDBuQHByb3Rvbm1haWwuY29t if you want to get in touch!</p>')
       .pauseFor(1500)
       .typeString('<br><p> Thanks for stopping by.</p>')
       .pauseFor(1500)
-  typewriter.typeString('<br><p>Over and Out.</p> <br>')
+  typewriter.typeString('<br><p>Over and Out.💔</p> <br>')
       .start();
 });
