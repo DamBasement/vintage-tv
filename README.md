@@ -1,9 +1,9 @@
 # DamBasement.github.io Project-Website
 
-Hi! This is my personal web page. 
+Hi! This is r3d f0x's web page. 
 
-Super simple and nostalgic imo. :) 
+Super simple and nostalgic 💔
 
-I am still working on mobile rendering
+Enjoy it on your phone, tablet or laptop.
 
-Stay tuned, more to come! 
+Stay tuned, more to come, we just started!
