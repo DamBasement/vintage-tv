@@ -19,7 +19,7 @@ $("button").click(function(){
       .typeString('<p> Hey.</p>')
       .pauseFor(500)
       .deleteChars(9)
-      .typeString('<p>I\'m dead_c0d3.</p>')
+      .typeString('<p>I\'m glitch.</p>')
       .pauseFor(1500)
       .typeString('<br><p>\'80s summer child. InfoSec dude since 2015. </p>')
       .pauseFor(1500)
