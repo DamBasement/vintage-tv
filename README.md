@@ -1,6 +1,4 @@
-# Vintage Television
-
-## Super simple and nostalgic theme💔
+# Vintage Television: a super simple and nostalgic theme 💔
 ![Screenshot 2022-12-03 at 23 22 09](https://user-images.githubusercontent.com/47954343/205464531-594526ed-e889-4b6e-99f7-fb66d144e548.png)
 
 # DEMO
@@ -24,5 +22,4 @@ Currently this theme isn't in dev mode. I wanted to keep it very simple and mini
 
 # License
 Copyright © 2022 Damiano Bassani (@DeadCode)
-
 The theme is released under the MIT License. Check the original theme [license](https://github.com/DamBasement/vintage-tv/LICENSE.md) for additional licensing information.
