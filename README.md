@@ -1,13 +1,8 @@
-# DEADCODE from dambasement.github.io
+# Vintage Television
 
-Hi! This is my personal web page. 
+Vintage TV 
 
-Super simple and nostalgic 💔
+Super simple and nostalgic theme💔
 
-Enjoy it on your phone, tablet or laptop and remember... 
 
-```
-🤖 The execution of dead code wastes computation time and memory. 🤖
-```
-
-Stay tuned, more to come, we have just started!
+Enjoy it on your phone, tablet or laptop.
