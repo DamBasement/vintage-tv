@@ -19,7 +19,7 @@ $("button").click(function(){
       .typeString('<p> Lorem ipsum dolor sit amet</p>')
       .pauseFor(500)
       .deleteChars(9)
-      .typeString('<p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>')
+      .typeString('<br><p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>')
       .pauseFor(1500)
       .typeString('<br><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>')
       .pauseFor(1500)
