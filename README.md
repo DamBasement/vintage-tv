@@ -1,8 +1,17 @@
-# Vintage Television: a super simple and nostalgic theme 💔
+# VINTAGE TELEVISION: a super simple and nostalgic theme 💔
 ![Screenshot 2022-12-03 at 23 22 09](https://user-images.githubusercontent.com/47954343/205464531-594526ed-e889-4b6e-99f7-fb66d144e548.png)
 
 # DEMO
 https://dambasement.github.io/vintage-tv/
+
+# How to start 
+
+- You can download the theme manually and customize it using your favourite code editor.
+
+- You can also clone it directly to your Desktop
+```
+$ git clone https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+```
 
 # Features
 - Vintage TV is a theme created to reproduce the effect of an old TV with the effect of a typical terminal and background music created especially for you.
