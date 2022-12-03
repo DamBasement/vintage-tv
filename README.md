@@ -3,15 +3,13 @@
 ## Super simple and nostalgic theme💔
 ![Screenshot 2022-12-03 at 23 22 09](https://user-images.githubusercontent.com/47954343/205464531-594526ed-e889-4b6e-99f7-fb66d144e548.png)
 
-# YOu can visit it here!
+# DEMO
 https://dambasement.github.io/vintage-tv/
 
-Vintage TV is a theme created to reproduce the effect of an old TV with the effect of a typical terminal and background music created especially for you.
-The page can be used as a reference landing page on social media or as a small presentation page.
-You can enjoy it on your phone, tablet or laptop and you are free to 
-
 # Features
-- Use of [Typewriter](https://safi.me.uk/typewriterjs/), a simple yet powerful native javascript plugin for a cool typewriter effect.
+- Vintage TV is a theme created to reproduce the effect of an old TV with the effect of a typical terminal and background music created especially for you.
+- The page can be used as a reference landing page on social media or as a small presentation page.
+- It uses of [Typewriter](https://safi.me.uk/typewriterjs/), a simple yet powerful native javascript plugin for a cool typewriter effect.
 - Mp3 track crafted for this site. It sounds quite retro, just give it a try. 🎹
 - Fully responsive on smartphones, tablets and laptops
 
