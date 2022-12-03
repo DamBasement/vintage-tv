@@ -16,19 +16,19 @@ $("button").click(function(){
   });
 
   typewriter.pauseFor(1500)
-      .typeString('<p> Hey.</p>')
+      .typeString('<p> Lorem ipsum dolor sit amet</p>')
       .pauseFor(500)
       .deleteChars(9)
-      .typeString('<p>I\'m deadcode.</p>')
+      .typeString('<p>consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</p>')
       .pauseFor(1500)
-      .typeString('<br><p>\'80s summer child. InfoSec dude since 2015. </p>')
+      .typeString('<br><p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>')
       .pauseFor(1500)
-      .typeString('<br><p> Brutalist, <a href="https://www.behance.net/r3df0x">Nikonist</a>, Guitarist.</p>')
+      .typeString('<br><p>nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor</p>')
       .pauseFor(1500)
-      .typeString('<br><p> Write me an email at MG4zcHIwdDBuQHByb3Rvbm1haWwuY29t if you want to get in touch!</p>')
+      .typeString('<br><p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur</p>')
       .pauseFor(1500)
-      .typeString('<br><p> Thanks for stopping by.</p>')
+      .typeString('<br><p>dolore magnam aliquam quaerat voluptatem</p>')
       .pauseFor(1500)
-  typewriter.typeString('<br><p>Over and Out.</p> <br>')
+  typewriter.typeString('<br><p>eum fugiat quo voluptas nulla pariatur?</p> <br>')
       .start();
 });
