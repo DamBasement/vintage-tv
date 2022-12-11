@@ -24,7 +24,7 @@ $ git clone https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hel
 I'd be happy if you want to share the way you use it. Feel free to add your site and your name to the [list](https://github.com/DamBasement/vintage-tv/users.md)! 🙃
 
 # Found a bug?
-If you spot any bugs, please use [Issue Tracker](https://github.com/DamBasement/vintage-tv/issues) or create a new [Pull Request](https://github.com/DamBasement/vintage-tv/pulls)to fix the issue.
+If you spot any bugs, please use [Issue Tracker](https://github.com/DamBasement/vintage-tv/issues) or create a new [Pull Request](https://github.com/DamBasement/vintage-tv/pulls) to fix the issue.
 
 # Any idea or new feature?
 Currently this theme isn't in dev mode. I wanted to keep it very simple and minimal but other cool features could be added. Feel free to propose what you think could be done better. 
